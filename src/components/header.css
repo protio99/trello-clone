@@ -1,0 +1,10 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #980377;
+    padding: .5rem;
+    margin: 1rem;
+    border-radius: 10px;
+    color: white;
+}
