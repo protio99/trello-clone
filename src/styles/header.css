@@ -7,4 +7,9 @@
     margin: 1rem;
     border-radius: 10px;
     color: white;
+    height: 3rem;
+}
+
+.header__tittle{
+    font-size: 2rem;
 }
